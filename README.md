@@ -26,9 +26,10 @@ Food Review App is an Android-based social application for food reviews. Users c
 
 ### Home
 
-- **Post Browsing**: Image-and-text display similar to Xiaohongshu (RED)  
+- **Post Browsing**: Posts are shown in a waterfall layout (like Xiaohongshu), where images and titles are displayed in a grid with multiple columns. Each card has the same width but different heights, making the feed look natural and lively.
+- **Post Composition**: Each post has a cover image and a short title.
 - **Search Function**: Keyword search bar at the top  
-- **Post Details**: View complete content and reviews by clicking a post  
+- **Post Details**: Tap a post to see the full content with text, pictures, and reviews (before dining / after 
 - **Review System**: Two modes of reviews — before dining and after dining  
 - **Content Display**: Rich multimedia content with text and images  
 
